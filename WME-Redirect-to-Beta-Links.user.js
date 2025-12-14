@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WME Redirect to Beta Links
 // @namespace    https://fxzfun.com/userscripts
-// @version      2025-01-21
+// @version      2025-12-14.01
 // @description  Open all WME links in Beta WME
 // @author       kid4rm90s
 // @match        https://docs.google.com/spreadsheets/*
@@ -10,8 +10,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=waze.com
 // @grant        none
 // @license      MIT
-// @downloadURL 
-// @updateURL 
+// @downloadURL https://raw.githubusercontent.com/kid4rm90s/WME-Redirect-to-Beta-Links/main/WME-Redirect-to-Beta-Links.user.js
+// @updateURL https://raw.githubusercontent.com/kid4rm90s/WME-Redirect-to-Beta-Links/main/WME-Redirect-to-Beta-Links.user.js
 // ==/UserScript==
  
 (function() {
