@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WME Redirect to Beta Links
 // @namespace    https://fxzfun.com/userscripts
-// @version      2025-12-14.01
+// @version      2025-12-14.02
 // @description  Open all WME links in Beta WME
 // @author       kid4rm90s
 // @match        https://docs.google.com/spreadsheets/*
@@ -13,6 +13,8 @@
 // @downloadURL https://raw.githubusercontent.com/kid4rm90s/WME-Redirect-to-Beta-Links/main/WME-Redirect-to-Beta-Links.user.js
 // @updateURL https://raw.githubusercontent.com/kid4rm90s/WME-Redirect-to-Beta-Links/main/WME-Redirect-to-Beta-Links.user.js
 // ==/UserScript==
+
+// Modified from WME Beta UR Links-2025-01-21.user.js by FXZFun
  
 (function() {
     'use strict';
