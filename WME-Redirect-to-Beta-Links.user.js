@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WME Redirect to Beta Links
-// @namespace    https://fxzfun.com/userscripts
-// @version      2025-12-15.01
+// @namespace    https://github.com/kid4rm90s/WME-Redirect-to-Beta-Links
+// @version      2025-12-15.02
 // @description  Open all WME links in Beta WME
 // @author       kid4rm90s
 // @match        https://docs.google.com/spreadsheets/*
