@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WME Redirect to Beta Links
 // @namespace    https://github.com/kid4rm90s/WME-Redirect-to-Beta-Links
-// @version      2025-12-15.02
+// @version      2025-12-17.01
 // @description  Open all WME links in Beta WME
 // @author       kid4rm90s
 // @match        https://docs.google.com/spreadsheets/*
@@ -37,7 +37,7 @@
             // Adjust zoom value
             params.delete('zoom');
             params.delete('zoomLevel');
-            params.append('zoomLevel', 18);
+            params.append('zoomLevel', 19);
  
             // Change to beta WME
             url.hostname = url.hostname.replace('www.', 'beta.');
