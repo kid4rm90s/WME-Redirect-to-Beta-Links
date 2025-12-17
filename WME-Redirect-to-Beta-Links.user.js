@@ -37,7 +37,7 @@
             // Adjust zoom value
             params.delete('zoom');
             params.delete('zoomLevel');
-            params.append('zoomLevel', 19);
+            params.append('zoomLevel', 20);
  
             // Change to beta WME
             url.hostname = url.hostname.replace('www.', 'beta.');
