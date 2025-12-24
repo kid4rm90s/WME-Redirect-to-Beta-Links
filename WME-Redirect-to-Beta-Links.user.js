@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         WME Redirect to Beta Links
 // @namespace    https://github.com/kid4rm90s/WME-Redirect-to-Beta-Links
-// @version      2025-12-17.04
+// @version      2025-12-24.01
 // @description  Open all WME links in Beta WME
 // @author       kid4rm90s
 // @match        https://docs.google.com/spreadsheets/*
 // @match        https://mail.google.com/*
 // @match        https://*/*
+// @exclude      https://www.waze.com/discuss/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=waze.com
 // @grant        none
 // @license      MIT
